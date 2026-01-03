@@ -83,6 +83,10 @@ Skilled in:
 
 ---
 
+
+<img width="1525" height="852" alt="image" src="https://github.com/user-attachments/assets/20ab0aaf-d9a3-4ff9-9e6d-fea47beccf43" />
+
+
 ## 📸 Screenshots
 👉 *(Add screenshots here)*
 
