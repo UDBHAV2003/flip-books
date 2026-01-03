@@ -6,7 +6,7 @@ This project showcases my **profile, education, projects, skills, services, and 
 ---
 
 ## 🚀 Live Preview
-👉  myintroportfolio.netlify.app
+👉 [ myintroportfolio.netlify.app](https://myintroportfolio.netlify.app/)
 
 ---
 
